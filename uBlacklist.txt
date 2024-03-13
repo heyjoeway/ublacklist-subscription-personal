@@ -560,3 +560,9 @@
 *://*.quantumprism.de/*
 *://*.brightwing.de/*
 *://*.pione3r.de/*
+*://*.gamedeveloper.com/*
+*://*.thegamer.com/*
+*://*.dailydot.com/*
+*://*.mediamatters.org/*
+*://*.gamesindustry.biz/*
+*://*.marketplace.org/*
