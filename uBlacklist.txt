@@ -566,3 +566,4 @@
 *://*.mediamatters.org/*
 *://*.gamesindustry.biz/*
 *://*.marketplace.org/*
+*://*.peopleconnect.us/*
