@@ -568,3 +568,4 @@
 *://*.marketplace.org/*
 *://*.peopleconnect.us/*
 *://*.nch.com.au/*
+*://*.clickssl.net/*
