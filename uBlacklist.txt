@@ -570,3 +570,7 @@
 *://*.nch.com.au/*
 *://*.clickssl.net/*
 *://*.emotn.com/*
+*://*.forbes.com/*
+*://*.healthline.com/*
+*://*.everydayhealth.com/*
+*://*.star-telegram.com/*
