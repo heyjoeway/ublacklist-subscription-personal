@@ -574,3 +574,4 @@
 *://*.healthline.com/*
 *://*.everydayhealth.com/*
 *://*.star-telegram.com/*
+*://*.gadgetmates.com/*
