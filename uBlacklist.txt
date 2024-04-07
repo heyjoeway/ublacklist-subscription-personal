@@ -576,3 +576,6 @@
 *://*.star-telegram.com/*
 *://*.gadgetmates.com/*
 *://*.lootaudio.com/*
+*://*.learningforjustice.org/*
+*://*.projectimplicit.net/*
+*://*.harvard.edu/*
