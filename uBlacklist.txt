@@ -579,3 +579,4 @@
 *://*.learningforjustice.org/*
 *://*.projectimplicit.net/*
 *://*.harvard.edu/*
+*://*.psychiatryonline.org/*
