@@ -580,3 +580,5 @@
 *://*.projectimplicit.net/*
 *://*.harvard.edu/*
 *://*.psychiatryonline.org/*
+*://*.ucarecdn.com/*
+*://*.e-ratecentral.com/*
