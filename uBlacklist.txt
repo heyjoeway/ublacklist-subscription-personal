@@ -255,7 +255,6 @@
 *://*.gadgetstouse.com/*
 *://*.myfonts.com/*
 *://*.adobe.com/*
-*://*.glassdoor.com/*
 *://*.stockapps.com/*
 *://*.tabnine.com/*
 *://*.netrinc.com/*
