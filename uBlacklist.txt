@@ -615,3 +615,5 @@
 *://*.aasect.org/*
 *://*.intimina.com/*
 *://*.sugardaddy.com/*
+*://*.charliehealth.com/*
+*://*.defector.com/*
