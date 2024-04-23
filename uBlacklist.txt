@@ -618,3 +618,5 @@
 *://*.charliehealth.com/*
 *://*.defector.com/*
 *://*.justanswer.com/*
+*://*.linkedin.com/*
+*://*.theatlantic.com/*
