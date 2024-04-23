@@ -617,3 +617,4 @@
 *://*.sugardaddy.com/*
 *://*.charliehealth.com/*
 *://*.defector.com/*
+*://*.justanswer.com/*
