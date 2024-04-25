@@ -620,3 +620,4 @@
 *://*.justanswer.com/*
 *://*.linkedin.com/*
 *://*.theatlantic.com/*
+*://*.thewcsupply.com/*
