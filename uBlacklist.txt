@@ -1077,3 +1077,5 @@
 *://*.veranda.com/*
 *://*.timesunion.com/*
 *://*.autoweek.com/*
+*://*.halfbakedharvest.com/*
+*://*.bonappetit.com/*
