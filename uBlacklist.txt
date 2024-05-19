@@ -1168,3 +1168,5 @@
 *://*.yelp.com.tw/*
 *://*.yelp.com.ua/*
 *://*.yelp.com.ph/*
+
+*://*.theonion.com/*
