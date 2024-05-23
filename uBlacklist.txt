@@ -1205,3 +1205,4 @@
 *://*.greenmangaming.com/*
 *://*.onechilledgamer.com/*
 *://*.inteleria.com/*
+*://*.insidehighered.com/*
