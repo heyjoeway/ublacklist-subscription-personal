@@ -1206,3 +1206,4 @@
 *://*.onechilledgamer.com/*
 *://*.inteleria.com/*
 *://*.insidehighered.com/*
+*://*.chemigreatgre.com/*
