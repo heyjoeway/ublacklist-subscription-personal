@@ -1207,3 +1207,4 @@
 *://*.inteleria.com/*
 *://*.insidehighered.com/*
 *://*.chemigreatgre.com/*
+*://*.thurrott.com/*
