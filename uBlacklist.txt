@@ -1208,3 +1208,12 @@
 *://*.insidehighered.com/*
 *://*.chemigreatgre.com/*
 *://*.thurrott.com/*
+*://*.fishphilosophy.com/*
+*://*.trainingstore.fish/*
+*://*.livechat.com/*
+*://*.mastery.com/*
+*://*.papdregistry.org/*
+*://*.audible.com/*
+*://*.portfoliocreative.com/*
+*://*.go1.com/*
+*://*.craftingagreenworld.com/*
