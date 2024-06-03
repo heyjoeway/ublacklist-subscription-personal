@@ -1218,3 +1218,4 @@
 *://*.go1.com/*
 *://*.craftingagreenworld.com/*
 *://*.raspberrytips.com/*
+*://*.americanaddictioncenters.org/*
