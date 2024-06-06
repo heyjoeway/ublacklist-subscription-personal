@@ -1220,3 +1220,4 @@
 *://*.raspberrytips.com/*
 *://*.americanaddictioncenters.org/*
 *://*.ctexaminer.com/*
+*://*.w3schools.com/*
