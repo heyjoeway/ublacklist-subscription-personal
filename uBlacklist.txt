@@ -1219,3 +1219,4 @@
 *://*.craftingagreenworld.com/*
 *://*.raspberrytips.com/*
 *://*.americanaddictioncenters.org/*
+*://*.ctexaminer.com/*
