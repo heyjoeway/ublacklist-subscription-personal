@@ -1221,3 +1221,5 @@
 *://*.americanaddictioncenters.org/*
 *://*.ctexaminer.com/*
 *://*.w3schools.com/*
+*://*.rarbg-official.com/*
+*://*.rarbg.tw/*
