@@ -1223,3 +1223,12 @@
 *://*.w3schools.com/*
 *://*.rarbg-official.com/*
 *://*.rarbg.tw/*
+*://*.similarweb.com/*
+*://*.babylon-software.com/*
+*://*.conduit-inc.com/*
+*://*.perion.com/*
+*://*.genieo.com/*
+*://*.is.com/*
+*://*.userstyles.org/*
+*://*.download.com/*
+*://*.sourceforge.net/*
