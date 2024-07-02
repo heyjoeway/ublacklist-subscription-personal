@@ -1232,3 +1232,5 @@
 *://*.userstyles.org/*
 *://*.download.com/*
 *://*.sourceforge.net/*
+*://*.lievjournal.com/*
+*://*.atlaq.com/*
