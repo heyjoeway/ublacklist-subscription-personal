@@ -1236,3 +1236,5 @@
 *://*.atlaq.com/*
 *://*.reddit.com/r/linuxmasterrace/*
 *://*.reddit.com/r/linux/*
+*://*.clarksonathletics.com/*
+*://*.bondbuyer.com/*
