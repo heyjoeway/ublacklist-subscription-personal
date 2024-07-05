@@ -1234,3 +1234,5 @@
 *://*.sourceforge.net/*
 *://*.lievjournal.com/*
 *://*.atlaq.com/*
+*://*.reddit.com/r/linuxmasterrace/*
+*://*.reddit.com/r/linux/*
