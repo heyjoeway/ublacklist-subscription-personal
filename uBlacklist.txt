@@ -1238,3 +1238,4 @@
 *://*.reddit.com/r/linux/*
 *://*.clarksonathletics.com/*
 *://*.bondbuyer.com/*
+*://*.snyk.io/*
