@@ -1241,3 +1241,4 @@
 *://*.snyk.io/*
 *://*.mailtrap.io/*
 *://*.bobcares.com/*
+*://*.packhum.org/*
