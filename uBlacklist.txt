@@ -1244,3 +1244,7 @@
 *://*.packhum.org/*
 *://*.advancedinstaller.com/*
 *://*.perugazette.com/*
+*://*.sslmarket.com/*
+*://*.ssl.com/*
+*://*.trustzone.com/*
+*://*.microsoft.com/*
