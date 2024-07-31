@@ -1247,3 +1247,4 @@
 *://*.sslmarket.com/*
 *://*.ssl.com/*
 *://*.trustzone.com/*
+*://*.csdn.net/*
