@@ -1253,3 +1253,5 @@
 *://*.them.us/*
 *://*.kingoapp.com/*
 *://*.trueimagetech.com/*
+*://*.jawstec.com/*
+*://*.makexyz.com/*
