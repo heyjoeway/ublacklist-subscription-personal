@@ -1255,3 +1255,4 @@
 *://*.trueimagetech.com/*
 *://*.jawstec.com/*
 *://*.makexyz.com/*
+*://*.freedomphone.com/*
